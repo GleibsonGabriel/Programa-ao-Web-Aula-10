@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+body {
+    background-color: black;
+    color: white;
+}
+#itens {
+font-style: italic;
+}
+ol {
+    list-style-type: lower-alpha;
+}
+ol li {
+    list-style: none;
+}
+ul li {
+    list-style: none;
+}
+footer {
+    text-align: center;
+}
